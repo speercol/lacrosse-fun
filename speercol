@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lacrosse Informative Website</title>
+  <style>
+    /* Reset default styles */
+    body, h1, h2, p, ul, li {
+      margin: 0;
+      padding: 0;
+    }
+
+    /* Global styles */
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.5;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+
+    h1, h2 {
+      color: #555;
+      margin-bottom: 20px;
+    }
+
+    p {
+      margin-bottom: 15px;
+    }
+
+    /* Header styles */
+    header {
+      background-color: #333;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #fff;
+      font-size: 30px;
+      text-align: center;
+    }
+
+    nav ul {
+      list-style: none;
+      text-align: center;
+      margin-top: 20px;
+    }
+
+    nav ul li {
+      display: inline-block;
+      margin-right: 15px;
+    }
+
+    nav ul li a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    /* Main styles */
+    main {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 0 20px;
+    }
+
+    /* Footer styles */
+    footer {
+      background-color: #333;
+      padding: 20px;
+      text-align: center;
+      color: #fff;
+    }
+
+    /* Media queries */
+    @media screen and (max-width: 600px) {
+      h1 {
+        font-size: 24px;
+      }
+
+      nav ul li {
+        display: block;
+        margin: 10px 0;
+      }
+
+      main {
+        padding: 0 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>Lacrosse Image</h1>
+  <img src="lacrosse.jpg" alt="Lacrosse" width="400" height="300">
+  <header>
+    <h1>Lacrosse Informative Website</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#rules">Rules</a></li>
+        <li><a href="#teams">Teams</a></li>
+        <li><a href="#equipment">Equipment</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Lacrosse</h2>
+      <p>
+        Lacrosse originated as a traditional sport played by Native American tribes in North America. It was known by various names among different tribes, such as "stickball" or "baggataway." The game held cultural and spiritual significance and was played for various purposes, including as a form of recreation, a means of resolving conflicts, and as a preparation for war. European colonists observed the Native Americans playing lacrosse and witnessed its passion and excitement. The game's popularity gradually spread among the settlers, who began to adapt the game to their own cultural preferences. Rules and equipment were modified, and the game evolved over time. The game has been considered a pocket sport, with it being popular in only select areas like Canada, Maryland and New York. The game has continued to emerge as one of the fastest growing sports in the world as of now.
+
+      </p>
+    </section>
+
+    <section id="rules">
+      <h2>Rules</h2>
+      <p>
+        
+The Game: Lacrosse is played between two teams, with each team trying to score goals by shooting a small rubber ball into the opponent's goal using a long-handled stick called a crosse.
+Players: Each team consists of 10 players, including a goalie, three defensemen, three midfielders, and three attackmen.
+Face-off: At the beginning of each quarter and after a goal is scored, a face-off takes place in the center of the field. The two players, one from each team, crouch down and the official places the ball between their crosses. The players then try to gain possession of the ball.
+Ball Possession: Players can pass, catch, carry, and shoot the ball using their crosses. However, they must not use their hands to touch the ball unless they are the goalie or are in the act of shooting.
+Checking: Defenders are allowed to use their crosses to check the opposing players to dislodge the ball. However, excessive or dangerous checking is penalized.
+Offsides: Each team must have a minimum of three players (including the goalie) on their defensive side of the field and a maximum of four players on their offensive side. Failure to comply with this rule results in an offsides penalty.
+Shot Clock: In some lacrosse leagues or levels of play, there might be a shot clock implemented. This means that an offensive team must take a shot on goal within a specified time limit. Failure to do so results in a turnover.
+Penalties: Players can receive penalties for various infractions such as slashing, tripping, holding, or unnecessary roughness. Penalties can result in the player serving time in the penalty box, leaving their team shorthanded.
+Scoring: A goal is scored when the ball completely crosses the goal line between the goalposts and under the crossbar. Each goal counts as one point.
+Game Duration: Lacrosse games are typically divided into four quarters. The duration of each quarter and the overall game time may vary depending on the level of play.
+      </p>
+    </section>
+
+    <section id="teams">
+      <h2>Teams</h2>
+      <p>
+        Lacrosse has experienced significant growth in recent decades. It is played at various levels, including professional leagues, collegiate competitions, and youth programs. As of now, there is a professional indoor league called the National Lacrosse League and there is also a professional outdoor league called the Premier Lacrosse League. Indoor and outdoor are two different ways the game is played and each has different rules. Indoor is played in a hockey rink with turf instead of ice and contains less players, a smaller net and a goalie that is permitted to wear much larger pads. 
+      </p>
+    </section>
+
+    <section id="equipment">
+      <h2>Equipment</h2>
+      <p>
+        
+Lacrosse Stick: The lacrosse stick, also known as the crosse, is the primary tool used to handle and shoot the ball. It consists of two main components: the head and the shaft. The head is typically made of plastic and features a pocket formed by mesh or traditional gut stringing. The shaft is usually made of metal or composite materials, providing durability and flexibility.
+Lacrosse Helmet: A lacrosse helmet is crucial for player safety, especially for those in offensive and defensive positions. It protects the head and face from potential impact and injuries. Helmets are constructed with a hard outer shell, a protective padding system on the inside, and a face mask made of metal or carbon fiber.
+Shoulder Pads: Shoulder pads provide protection to the upper body, including the chest, shoulders, and upper back. They consist of hard plastic plates and foam padding to absorb and distribute impact forces. Shoulder pads are designed to protect players from checks, collisions, and stick checks.
+Elbow Pads: Elbow pads are worn to protect the elbows and forearms. They are constructed with hard plastic outer shells and foam padding to cushion impacts. Elbow pads provide protection against checks and collisions and are essential for players in all positions.
+Gloves: Lacrosse gloves offer hand and wrist protection while allowing players to maintain a secure grip on the stick. They are typically made of durable materials such as leather or synthetic materials with reinforced padding in critical areas. Gloves also provide protection against stick checks and impact during gameplay.
+Mouthguard: A mouthguard is essential to protect the teeth, jaw, and mouth during lacrosse play. It is typically made of a moldable material that fits over the upper teeth and gums. Mouthguards absorb impact forces, reducing the risk of dental and oral injuries.
+Cleats: Lacrosse is often played on grass or artificial turf surfaces, and cleats provide traction and stability. Lacrosse cleats have specialized outsoles with cleats or studs to enhance grip and agility on the field.
+Protective Cup: Male players wear a protective cup to protect the groin area. It provides crucial protection against accidental impacts and ensures player safety.
+Optional equipment includes rib pads, throat guards, additional padding for specific body areas, and goalie-specific gear like chest protectors, goalie gloves, and shin guards.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Lacrosse Information. All rights reserved.</p>
+  </footer>
+</body>
+</html>
